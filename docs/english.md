@@ -6,8 +6,8 @@
 This mobile app uses AdMob (Google Inc.) to display advertisement. AdMob collects information on users to supply personalized ads. 
 For more detailed information and usage of collected information, please read the application privacy policy of the advertising company at the links below.
 
-### Google 広告に関するポリシー
+### Google policy about advertisement
 [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
 
-### Google プライバシーポリシー
+### Google privacy policy
 [https://policies.google.com/privacy](https://policies.google.com/privacy)
